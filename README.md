@@ -1,3 +1,1 @@
-"La 'magia' esta en el /src/service-worker.js"
-
-(igualmente me auto recomiendo hacerlo con workbox )
+Applicacion de calendario para crear un service Worker con Workbox
